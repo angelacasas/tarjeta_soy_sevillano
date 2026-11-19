@@ -3,7 +3,6 @@
   "short_name": "Sevilla",
   "start_url": "./",
   "display": "standalone",
-  "orientation": "landscape",
   "background_color": "#DEDEE4",
   "theme_color": "#970043",
   "icons": [
